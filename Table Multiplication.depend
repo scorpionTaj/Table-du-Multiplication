@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638559255 source:/home/scorpion/Downloads/Table Multiplication/main.c
+	<stdio.h>
+	<stdlib.h>
+
